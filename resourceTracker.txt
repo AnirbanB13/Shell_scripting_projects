@@ -1,0 +1,9 @@
+2025-01-03 12:52:25 my-s3-bucket-anirban
+"i-04935b4e446b60801"
+{
+    "Functions": []
+}
+"Anirban"
+"Anirban-user-v1"
+"Terraform_user"
+"test-user"
