@@ -65,3 +65,19 @@ exit 0
 #./list_users.sh octocat Hello-World
 
 
+# Changes made explained:
+
+# Error Handling:
+# Added a check to see if the response contains an error message from the GitHub API and handle it appropriately.
+
+# Logging:
+# The list of collaborators is printed to the console and also logged to a file named resourceTracker.txt.
+
+
+# Usage Message:
+# Added a usage message to guide the user on how to run the script if the required arguments are not provided.
+
+# Improved Readability:
+# Improved the readability of the script by adding comments and organizing the code into logical sections.
+
+# This optimized script provides better error handling and logs the results to a file, making it more robust and user-friendly.
